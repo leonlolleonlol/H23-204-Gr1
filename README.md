@@ -4,4 +4,4 @@ H23-204-Gr1
 bla bla bla
 
 ## Titre 2: travail en équipe
-<img src="https://wallpaper.dog/large/10816358.png" alt="Girl in a jacket">
+<img src="./10816358.png" alt="Girl in a jacket">
