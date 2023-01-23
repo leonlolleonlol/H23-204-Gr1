@@ -1,1 +1,2 @@
-print("allo2")
+print("allo2, how are you")
+response = input()
